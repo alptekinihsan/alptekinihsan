@@ -47,7 +47,7 @@ Badge"/>
 <div align="center">
 ---
 
-### :man_technologist: About Me :</div>
+### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Türkiye.
 
 - :telescope: I’m working as a Software Engineer and contributing to artificial intelligence, mobil and web for building applications.
@@ -91,3 +91,4 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alptekinihsan&layout=compact&theme=vision-friendly-dark)](https://github.com/alptekinihsan/github-readme-stats)
 
+</div>
